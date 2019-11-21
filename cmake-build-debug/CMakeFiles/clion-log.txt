@@ -1,0 +1,4 @@
+"C:\Users\Rommel\Downloads\Otras descargas\CLion 2019.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Rommel/Downloads/OD/mingw64/bin/mingw32-make.exe -DCMAKE_C_COMPILER=C:/Users/Rommel/Downloads/OD/mingw64/bin/gcc.exe -DCMAKE_CXX_COMPILER=C:/Users/Rommel/Downloads/OD/mingw64/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" C:\Users\Rommel\Desktop\ProyectoPOO\Proyecto
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Rommel/Desktop/ProyectoPOO/Proyecto/cmake-build-debug

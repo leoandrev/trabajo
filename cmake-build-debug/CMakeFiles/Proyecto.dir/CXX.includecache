@@ -1,0 +1,41 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Rommel/Desktop/ProyectoPOO/Proyecto/FuncionesPrimeraEntrega.h
+librerias.h
+C:/Users/Rommel/Desktop/ProyectoPOO/Proyecto/librerias.h
+
+C:/Users/Rommel/Desktop/ProyectoPOO/Proyecto/FuncionesSegundaEntrega.h
+librerias.h
+C:/Users/Rommel/Desktop/ProyectoPOO/Proyecto/librerias.h
+
+C:/Users/Rommel/Desktop/ProyectoPOO/Proyecto/librerias.h
+iostream
+-
+<<<<<<< HEAD
+ctime
+-
+cstdlib
+-
+vector
+-
+string
+-
+cstring
+-
+=======
+>>>>>>> 32f3b4253d2a4b9ddcfc0e6b85a57437018f509d
+fstream
+-
+
+C:/Users/Rommel/Desktop/ProyectoPOO/Proyecto/main.cpp
+FuncionesPrimeraEntrega.h
+C:/Users/Rommel/Desktop/ProyectoPOO/Proyecto/FuncionesPrimeraEntrega.h
+FuncionesSegundaEntrega.h
+C:/Users/Rommel/Desktop/ProyectoPOO/Proyecto/FuncionesSegundaEntrega.h
+
